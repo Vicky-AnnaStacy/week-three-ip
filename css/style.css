@@ -16,3 +16,19 @@
   .landing p{
     padding: 2px;
   }
+  #logo{
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 64px;
+    height: 64px;;
+  }
+  #mouse-click{
+    padding-top : 22px;
+    margin-top: 10%;
+    padding-bottom: 30px; 
+  }
+  .about{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+  }
