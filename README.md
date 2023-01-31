@@ -26,7 +26,7 @@ https://github.com/Vicky-AnnaStacy/week-three-ip
 
 
 ## Known Bugs
-* The portfiolio  section responsiveness and interaction is not working as expected. 
+* 
 
 ## Contact Information 
 0717477588
