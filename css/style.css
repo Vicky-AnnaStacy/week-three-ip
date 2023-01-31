@@ -1,6 +1,6 @@
 /*Introduction section*/
 .landing{
-    background-image: url('..images\background');
+    background-image: url("../images\background\h_img.jpg"); 
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
