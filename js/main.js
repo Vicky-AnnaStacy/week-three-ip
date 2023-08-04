@@ -14,11 +14,13 @@
       }
     });
     /*What we do section*/
-    $("#whole-design").click(function () ); {
+    $("#whole-design").click(function ()); {
 
     }
 
-      $"#design").toggle();
+    
+
+      $("#design").toggle();
       $("#design-image").toggle();
     
       $(document).ready(function(){

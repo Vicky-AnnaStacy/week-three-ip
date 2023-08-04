@@ -1,5 +1,5 @@
 .landing {
-    background-image: url("../images\background\s_image.jpg");
+    background-image: url("images\background\c_image.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15,19 +15,19 @@
   .landing p {
     padding: 2px;
   }
-  #logo {
+  logo {
     margin-top: 12px;
     margin-bottom: 24px;
     width: 70px;
     height: 70px;
   }
-  #mouse-click {
+  mouse-click {
     padding-top: 22px;
     margin-top: 10%;
     padding-bottom: 30px;
     /* animation-iteration-count: infinite; */
   }
-  #mouse-click {
+  mouse-click {
     animation: bounce 2s infinite;
   }
   @keyframes bounce {
@@ -221,4 +221,3 @@
     font-family: "Delius Swash Caps", cursive;
     opacity: 1;
   }
-  
